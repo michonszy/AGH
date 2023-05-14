@@ -1,0 +1,3 @@
+/Users/miszmo/Documents/Dev/AGH/optymalizacja_lab_1_pliki_zrodlowe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/miszmo/Documents/Dev/AGH/optymalizacja_lab_1_pliki_zrodlowe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/miszmo/Documents/Dev/AGH/optymalizacja_lab_1_pliki_zrodlowe/cmake-build-debug/CMakeFiles/optymalizacja_lab_1_pliki_zrodlowe.dir

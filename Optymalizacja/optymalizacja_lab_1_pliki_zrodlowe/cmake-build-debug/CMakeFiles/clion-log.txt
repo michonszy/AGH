@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/miszmo/Documents/Dev/AGH/optymalizacja_lab_1_pliki_zrodlowe
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/miszmo/Documents/Dev/AGH/optymalizacja_lab_1_pliki_zrodlowe/cmake-build-debug
