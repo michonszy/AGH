@@ -1,2 +1,3 @@
 # AGH
-Informatyka AGH
+
+Informatyka Techniczna, WIMiIP, AGH
