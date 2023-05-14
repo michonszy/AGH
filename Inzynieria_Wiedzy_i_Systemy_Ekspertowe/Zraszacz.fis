@@ -1,0 +1,53 @@
+[System]
+Name='Zraszacz'
+Type='mamdani'
+Version=2.0
+NumInputs=2
+NumOutputs=1
+NumRules=12
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='bisector'
+
+[Input1]
+Name='TEMPERATURA'
+Range=[0 40]
+NumMFs=4
+MF1='ZIMNO':'trimf',[0 0 13]
+MF2='CIEPŁO':'trimf',[13 26 40]
+MF3='LETNIO':'trimf',[0 13 26]
+MF4='GORĄCO':'trimf',[26 40 40]
+
+[Input2]
+Name='WILGOTNOŚĆ'
+Range=[0 100]
+NumMFs=3
+MF1='MAŁA':'trimf',[0 0 50]
+MF2='ŚREDNIA':'trimf',[0 50 100]
+MF3='DUŻA':'trimf',[50 100 100]
+
+[Output1]
+Name='INTENSYWNOŚĆ_PODLEWANIA'
+Range=[0 100]
+NumMFs=5
+MF1='ZERO':'trimf',[0 0 0]
+MF2='MALA':'trimf',[25 25 25]
+MF3='SREDNIA':'trimf',[50 50 50]
+MF4='DUZA':'trimf',[75 75 75]
+MF5='MAX':'trimf',[100 100 100]
+
+[Rules]
+1 1, 3 (1) : 1
+1 2, 2 (1) : 1
+1 3, 1 (1) : 1
+3 1, 4 (1) : 1
+3 2, 2 (1) : 1
+3 3, 1 (1) : 1
+2 1, 4 (1) : 1
+2 2, 3 (1) : 1
+2 3, 2 (1) : 1
+4 1, 5 (1) : 1
+4 2, 4 (1) : 1
+4 3, 3 (1) : 1
