@@ -1,0 +1,7 @@
+﻿  AlgoSortowanie.cpp
+C:\Users\Chrupek\source\repos\AlgoSortowanie\AlgoSortowanie\AlgoSortowanie.cpp(18,15): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Chrupek\source\repos\AlgoSortowanie\AlgoSortowanie\AlgoSortowanie.cpp(48,15): warning C4101: "x1": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Chrupek\source\repos\AlgoSortowanie\AlgoSortowanie\AlgoSortowanie.cpp(50,15): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Chrupek\source\repos\AlgoSortowanie\AlgoSortowanie\AlgoSortowanie.cpp(49,15): warning C4101: "x2": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Chrupek\source\repos\AlgoSortowanie\AlgoSortowanie\AlgoSortowanie.cpp(47,15): warning C4101: "d": lokalna zmienna, do której nie istnieje odwołanie
+  AlgoSortowanie.vcxproj -> C:\Users\Chrupek\source\repos\AlgoSortowanie\Debug\AlgoSortowanie.exe

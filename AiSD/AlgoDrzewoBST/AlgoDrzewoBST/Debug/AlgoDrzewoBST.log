@@ -1,0 +1,5 @@
+﻿  AlgoDrzewoBST.cpp
+C:\Users\Chrupek\source\repos\AlgoDrzewoBST\AlgoDrzewoBST\AlgoDrzewoBST.cpp(40): warning C4715: "findElement”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Chrupek\source\repos\AlgoDrzewoBST\AlgoDrzewoBST\AlgoDrzewoBST.cpp(86): warning C4715: "findMin”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Chrupek\source\repos\AlgoDrzewoBST\AlgoDrzewoBST\AlgoDrzewoBST.cpp(79): warning C4715: "findMax”: niewszystkie ścieżki kodu zwracają wartość
+  AlgoDrzewoBST.vcxproj -> C:\Users\Chrupek\source\repos\AlgoDrzewoBST\Debug\AlgoDrzewoBST.exe
